@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**xydoh/xydoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys building things, exploring new technologies, and turning ideas into reality.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Interested in software development, AI, and game development.
+- ⚡ Building projects under **Jinrai**.
+- 🎨 I enjoy combining technology with creative design.
+- 🌸 Always learning, experimenting, and improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I'm Working On
+- **Jinrai Tools** — Privacy and security utilities.
+- **Jinrai AR Studio** — Exploring augmented reality.
+- **Jinrai Projects** — Small experiments and personal creations.
+
+### 🎯 Interests
+`Python` · `JavaScript` · `TypeScript` · `AI` · `Game Development` · `Open Source`
+
+---
+
+*“Turning imagination into something real.”* ⚡

@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a developer who enjoys building things, exploring new technologies, and turning ideas into reality.
+I'm [Xydoh](https://github.com/xydoh), a developer who enjoys building things., exploring new technologies, and turning ideas into reality.
 
 ### 🚀 About Me
 - 💻 Interested in software development, AI, and game development.
